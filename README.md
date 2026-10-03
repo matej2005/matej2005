@@ -1,4 +1,6 @@
-## Hi there 👋
+## My tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,linux)](https://skillicons.dev)
+
 
 <!--
 **matej2005/matej2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
